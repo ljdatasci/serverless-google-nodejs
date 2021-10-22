@@ -1,5 +1,0 @@
-resources:
-  - type: storage.v1.bucket
-    name: sls-serverless-gcp-nodejs-dev-1634917869494
-    properties:
-      location: us-central1
