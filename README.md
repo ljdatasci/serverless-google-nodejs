@@ -9,7 +9,7 @@ This project demonstrates how to develop and deploy http and pubsub cloud functi
 Install the dependencies with:
 
 ```text
-npm innstall
+npm install
 ```
 
 and then deploy with:
